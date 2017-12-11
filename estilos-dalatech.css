@@ -1,0 +1,148 @@
+
+
+
+
+
+p {font-family: 'Source Sans Pro', sans-serif;}
+
+
+.copyright{float: left;
+           padding-left: 20px;
+           padding-top: 10px;
+           padding-bottom: 20px;
+           }
+
+
+
+.footer {width: 1200px;
+        height: 60px;}
+
+.footer p{float: left;
+          text-align: left;
+          margin: auto;}
+
+.footer img {float: right;
+             justify-content: space-around;}
+/*------------INDEX COMIENZO--------------*/
+
+
+
+.navbar-brand{
+    
+font-family: 'Julius Sans One', sans-serif;
+
+}
+
+.navbar navbar-expand-lg navbar-light bg-light ´{ background: #B0E0E6 !important ;}
+
+
+.foot{ padding-top: 10px;
+         padding-bottom: 10px;
+         padding-left: 20px;
+         background-color: black;
+         }
+
+#carouselExampleIndicators{ 
+                           height: 600px;}
+
+
+
+.carousel-caption { font-size: 40px; 
+                    font-family: 'Montserrat', sans-serif;}
+
+
+
+.menu-social { 
+               float: right;}
+
+
+
+.menu-social img{width: 40px;
+                 }
+
+
+
+/*------------INDEX FINAL------------*/
+
+
+/*---------------NOSOTROS COMIENZO-----------------*/
+
+h2 {font-family: 'Julius Sans One', sans-serif;
+    padding: 20px;}
+
+
+.quienes-somos
+{
+             padding: 20px 20px;
+             box-sizing: border-box;
+
+
+}
+
+footer{padding: 5px;}
+
+
+.contenedor-info {align-items: center; }
+
+
+
+/*----------------------NOSOTROS FINAL----------------------------*/
+
+
+
+/*------------------formulario de contacto---------------------*/
+
+form {margin-top: 20px;
+      margin-bottom: 20px;
+      margin-left: 20px;}
+
+.contacto  {
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px;
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+      
+    }
+.col-sm-2 col-form-label,
+.col-form-legend col-sm-2,
+.col-sm-2 {font-family: 'Julius Sans One', sans-serif;}
+
+.form-check-input{font-family: 'Julius Sans One', sans-serif;}
+
+/*--------------------fin formulario de contacto---------------------------*/
+
+
+
+/*-------------------------------productos dalatech--------------------------------------*/
+
+
+.contenedor-productos {  padding: 5px;
+                         text-align: center;
+                         
+                         display: flex;
+                         flex-direction:row;
+                         justify-content: space-around;}
+
+
+
+
+/*--------------------------------------fin productos--------------------------------------------*/
+
+
+
+
+/*---------------------------servicios dalatech---------------------------------*/
+.servicio-tecnico {width: 900px; height: auto;
+                   align-items: center;
+                   margin:1em;
+                   
+                   }
+
+
+
+
+span{font-family: 'Julius Sans One', sans-serif;}
+
+
+/*--------------------------------------fin servicios dalatech--------------------------------------------*/
